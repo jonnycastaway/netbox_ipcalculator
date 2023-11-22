@@ -8,7 +8,7 @@ Adds an IP Calculator to the views of
 ![IP Calculator image](docs/images/IPCalculator.png)
 
 ## Installation
-Update the /opt/netbox/local_requirements.txt with
+Update the /opt/netbox/local_requirements.txt (generate file if not already existing) with
 
 > netbox-ipcalculator
 
